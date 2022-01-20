@@ -9,7 +9,7 @@
 ## :busts_in_silhouette: Work and study statuses
 
 - 🌱 Learning more about infra, Docker and functional programming; 
-- 💬 Looking for job as Software Engineer;
+- 💬 Looking for job as Back-End developer;
 - 📫 Come see more about me on my LinkedIn: [@igorfelipeduca](https://www.linkedin.com/in/igorfelipeduca/).
 
 ## :earth_africa: Technologies
