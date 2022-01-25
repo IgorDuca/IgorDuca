@@ -2,7 +2,7 @@
 
 ## :triangular_flag_on_post: Competencies
 - Programming languages: JavaScript, TypeScript, C, C++, C#;
-- Infra knowledges: Docker;
+- Infra knowledges: Docker, Jenkins, DigitalOcean, Heroku;
 - Database / Data structure store: Prisma, MariaDB, SQL, MongoDB;
 - Computational techniques: Clean Code, Recursive and linear coding, TDD.
 
