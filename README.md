@@ -6,6 +6,8 @@
 - Database / Data structure store: Prisma, MariaDB, SQL, MongoDB;
 - Computational techniques: Clean Code, Recursive and linear coding, TDD.
 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" width="500" height="320" />
+
 ## :busts_in_silhouette: Work and study statuses
 
 - 🌱 Pretending to learn Java; 
