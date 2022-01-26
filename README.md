@@ -11,7 +11,7 @@
 ## :busts_in_silhouette: Work and study statuses
 
 - 🌱 Pretending to learn Java; 
-- 💬 Looking for job as Back-End developer;
+- 💬 Working as Full-Stack developer;
 - 📫 Come see more about me on my LinkedIn: [@igorfelipeduca](https://www.linkedin.com/in/igorfelipeduca/).
 
 ## :earth_africa: Technologies
